@@ -17,3 +17,5 @@ PROD=$(softwareupdate -l |
   sed -e 's/^ *//' |
   tr -d '\n')
 softwareupdate -i "$PROD" -v;
+
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)";

@@ -42,3 +42,5 @@ echo "MongoDB Setup...";
 sudo mkdir -p /data/db;
 ln -sfv /usr/local/opt/mongodb/*.plist ~/Library/LaunchAgents;
 launchctl load ~/Library/LaunchAgents/homebrew.mxcl.mongodb.plist;
+
+echo "Mac OSX Devbook setup is complete";

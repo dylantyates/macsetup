@@ -19,3 +19,14 @@ PROD=$(softwareupdate -l |
 softwareupdate -i "$PROD" -v;
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)";
+
+brew install \
+  caskroom/cask/brew-cask \
+  git \
+  mongodb \
+  nmap \
+  node \
+  openssl \
+  pssh \
+  python \
+;

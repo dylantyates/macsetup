@@ -38,7 +38,7 @@ brew cask install \
   vlc \
 ;
 
-echo "MongoDB Setup";
+echo "MongoDB Setup...";
 sudo mkdir -p /data/db;
 ln -sfv /usr/local/opt/mongodb/*.plist ~/Library/LaunchAgents;
 launchctl load ~/Library/LaunchAgents/homebrew.mxcl.mongodb.plist;

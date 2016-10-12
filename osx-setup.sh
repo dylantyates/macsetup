@@ -30,3 +30,11 @@ brew install \
   pssh \
   python \
 ;
+brew tap caskroom/versions;
+brew cask install \
+  firefox \
+  google-chrome \
+  silverlight \
+  sublime-text \
+  vlc \
+;

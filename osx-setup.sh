@@ -35,6 +35,7 @@ brew cask install \
   firefox \
   google-chrome \
   silverlight \
+  spectacle \
   vlc \
 ;
 

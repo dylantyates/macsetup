@@ -1,4 +1,4 @@
-# macsetup
+# MacSetup
 Minimal development setup for Mac OS X El Capitan
 
 ## Usage

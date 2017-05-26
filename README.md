@@ -2,7 +2,7 @@
 Minimal development setup for Mac OS X El Capitan
 
 ## Usage
-    $ curl -fsSL webev.net/macsetup | bash
+    $ curl -fsSL webev.net/macsetup | sh
 
 ## Development
 See [CONTRIBUTING](CONTRIBUTING.md)

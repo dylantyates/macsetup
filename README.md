@@ -1,5 +1,17 @@
-# osxsetup
-Minimal dev setup for Mac OSX El Capitan 10.11.6
-```bash
-curl https://raw.githubusercontent.com/dwreckfoo/osxsetup/master/osx-setup.sh | sh
-```
+# MacSetup
+Minimal development setup for Mac OS X El Capitan
+
+## Usage
+    $ curl -fsSL webev.net/macsetup | sh
+
+## Development
+See [CONTRIBUTING](CONTRIBUTING.md)
+
+## History
+See [CHANGELOG](CHANGELOG.md)
+
+## Credits
+See [AUTHORS](AUTHORS.md)
+
+## License
+See [LICENSE](LICENSE)
